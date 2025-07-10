@@ -1,3 +1,4 @@
+import pandas as pd
 total = int(input())
 a = []
 b = []

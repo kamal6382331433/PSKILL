@@ -11,7 +11,5 @@ def length(l):
     l1=int(l*l)
     return l1
 print(radius(r))
-
 print(height(h))
-
 print(length(l))

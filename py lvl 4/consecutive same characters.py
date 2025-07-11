@@ -13,7 +13,6 @@ def find(s):
         i = j
 
     return max(k)
-
 s = input("Enter: ")
 res = find(s)
 print(res)

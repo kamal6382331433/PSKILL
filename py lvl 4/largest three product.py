@@ -12,3 +12,4 @@ for i in range(0, total - 2):
         m=m*a[j]
     b.append(m)
 print(max(b))
+3
